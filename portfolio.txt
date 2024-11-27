@@ -1,0 +1,98 @@
+Title - Dev Kakadia's Website
+Menu/Navbar - Home, About, Resume, Portfolio, Contact.
+
+Hero section - 
+
+Hello,
+I am Dev Kakadia
+Student | University of Windsor
+social links - Github, LinkedIn, Email, Instagram.
+
+About section -
+
+My name is Dev Kakadia. I am pursuing my bachelors in Computer Science from University of Windsor.
+
+Fullname: Dev Kakadia
+Birth Date: June 12, 2004
+Ocupation: Student
+Phone: +1(226) 975 XXXX
+Email: kakadiad@uwindsor.ca
+90% HTML5
+85% CSS3
+70% JavaScript
+95% PHP
+75% C
+
+
+More of my credentials.
+
+Technical Skills - display images of skills (total 24, display in infinite loop)
+	
+Work Experience - 
+Data Entry Clerk - August 2022 - April 2024
+Central Transport
+
+Executed transfer of crucial shipping data into Central Transport's system.
+Demonstrated attention to detail by accurately entering data into the system and boosting Microsoft Office Skills.
+Work error-free with precise to prevent errors in invoicing process and experienced corporate working environment.
+		   
+Education
+
+Bachelor Degree - April 2022 - Current - University Of Windsor
+
+High School - March 2020 - April 2021 - RK Science School
+
+Portfolio section - Here are some of my Projects, Feel free to check it out.
+1) Parenthesis Checker - C
+Developed a highly efficient Parenthesis Checker application using the C programming language, implementing a stack data structure to ensure the correctness of parenthesis order within input sentences
+Introduced innovative error prevention techniques in the Parenthesis Checker application, enhancing user experience.
+Achieved a perfect score of 100%, demonstrating comprehensive understanding and mastery of Parenthesis Checker application development
+Implemented sophisticated stack data structures, underscoring a strong foundation in data structure proficiency.
+Data Structures | C
+2) Random Password Generator - Java
+Created a robust and secure Random Password Generator using Java, ensuring the generation of strong and unpredictable passwords for enhanced online security.
+Implemented user-friendly features for customizing password settings and Utilized secure coding practices to fortify the Random Password Generator against potential vulnerabilities.
+Executed comprehensive automated tests to validate the robustness and security of the password generation algorithm.
+Cyber security | Java Language
+3) Phone Book Program - C
+Developed a functional and user-friendly phone book program in C, providing an efficient solution for organizing and managing contact information.
+Designed an intuitive user interface for easy navigation and implemented data storage and retrieval mechanisms.
+Proficient in database design and management, employing SQL for optimized data handling.
+Database | Cloud Storage | C
+4) Ecommerce-Front - Next.js
+Developed a full-stack e-commerce platform using Next.js and React, with a responsive, mobile-first UI using Tailwind CSS. Managed application state with React Context API, enhancing usability and interactivity across devices.
+Integrated MongoDB with Mongoose for robust data storage and retrieval, paired with secure RESTful API interactions using Axios to handle user data, product management, and dynamic content updates.
+Implemented Stripe for secure payment processing and optimized web performance using Next.js features such as server-side rendering, static generation, and dynamic routing to improve load times and SEO.
+Visit Website 🌐
+Next.js | Styled Components | Stripe
+5) Ecommerce-Admin - Next.js
+Ecommerce-Admin
+Developed a comprehensive admin panel for managing e-commerce operations, utilizing Next.js for the frontend and connecting to MongoDB with session management via NextAuth and Google OAuth for authentication.
+Built a flexible Content Management System to handle CRUD operations for products, categories, and orders, facilitating real-time data updates and interactive form inputs with validation.
+Integrated AWS S3 for efficient media handling and storage solutions, ensuring high levels of security and data integrity with tailored user access controls and session-based authentications
+6) AI Trip Plannar - React, Firebase, Google Gemini AI
+Developed a responsive web application utilizing React and Firebase, enhanced by Google's Gemini AI to generate personalized travel itineraries. The AI models analyze user inputs and preferences to provide optimized travel suggestions.
+Implemented a dynamic, responsive interface using Tailwind CSS and React, featuring secure sign-in functionality for personalized user experiences. The application allows for seamless user interactions and data management across different devices.
+Integrated a full stack of technologies including React, Firebase, Tailwind CSS, Vite, and PostCSS, along with Google Gemini AI and third-party APIs for enriched functionality. This setup ensures robust data fetching, user authentication, and real-time updates, enhancing the overall user experience and application performance.
+Visit Website 🌐
+React | Firebase | Google Gemini AI
+
+Contact Page -
+I'd Love To Hear From You.
+form with name, email, subject, message.
+
+Where to find me
+University Of Windsor
+Windsor, ON
+N9B 3P4 Canada
+
+Email Me At
+kakadiad@uwindsor.ca
+
+Call Me At
+Mobile: +1 (226) 975 XXXX
+
+footer section -
+social links - Github, LinkedIn, Email, Instagram.
+copyright - DK
+
