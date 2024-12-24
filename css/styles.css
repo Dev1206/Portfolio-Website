@@ -1346,6 +1346,11 @@ body {
     height: 720px;
 }
 
+.layout-item.large {
+    grid-column: span 12;
+    height: 720px;
+}
+
 /* Hover effect */
 .layout-item:hover {
     transform: translateY(-5px);
