@@ -3397,3 +3397,148 @@ html {
     backface-visibility: hidden;
     perspective: 1000px;
 } 
+
+@media (max-width: 768px) {
+    .portfolio-section {
+        padding: 4rem 1.5rem;
+    }
+
+    .layout-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .layout-item,
+    .layout-item.medium,
+    .layout-item.large {
+        grid-column: span 1;
+    }
+
+    .project-card {
+        height: auto;
+    }
+
+    .project-image {
+        height: 200px;
+    }
+
+    .project-content {
+        padding: 1.5rem;
+    }
+
+    .project-title {
+        font-size: 1.3rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .project-description {
+        font-size: 0.95rem;
+        margin-bottom: 1.2rem;
+    }
+
+    .tech-stack {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+
+    .tech-tag {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8rem;
+    }
+
+    .project-links {
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .portfolio-section {
+        padding: 3rem 1rem;
+    }
+
+    .project-image {
+        height: 180px;
+    }
+
+    .project-content {
+        padding: 1.2rem;
+    }
+
+    .project-title {
+        font-size: 1.2rem;
+    }
+
+    .tech-tag {
+        padding: 0.3rem 0.6rem;
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .contact-section {
+        padding: 4rem 1.5rem;
+    }
+
+    .contact-container {
+        flex-direction: column;
+        gap: 3rem;
+    }
+
+    .contact-info {
+        width: 100%;
+    }
+
+    .contact-card {
+        padding: 1.5rem;
+    }
+
+    .contact-form-container {
+        width: 100%;
+        padding: 1.5rem;
+    }
+
+    .form-group {
+        margin-bottom: 1.2rem;
+    }
+
+    .input-container input,
+    .input-container textarea {
+        padding: 0.8rem 1rem;
+        font-size: 0.95rem;
+    }
+
+    .input-container label {
+        font-size: 0.9rem;
+    }
+
+    .submit-btn {
+        width: 100%;
+        padding: 0.8rem 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .contact-section {
+        padding: 3rem 1rem;
+    }
+
+    .contact-card,
+    .contact-form-container {
+        padding: 1.2rem;
+    }
+
+    .contact-icon {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+    }
+
+    .contact-details h3 {
+        font-size: 1.1rem;
+    }
+
+    .contact-details p,
+    .contact-link {
+        font-size: 0.9rem;
+    }
+}
